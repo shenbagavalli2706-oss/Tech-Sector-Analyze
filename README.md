@@ -107,12 +107,10 @@ No database setup is required — the `.twbx` is self-contained.
 
 ## Author
 
-**Bloom**
+**Shenbagavalli** 
 
 Aspiring Data Analyst — Python · SQL · Power BI · Tableau · Excel
 
 ---
 
-## License
 
-Released under the MIT License. The dataset is compiled for educational and portfolio use.
