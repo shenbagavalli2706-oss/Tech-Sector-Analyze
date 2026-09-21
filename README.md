@@ -14,11 +14,18 @@ An interactive Tableau dashboard that profiles **64 global IT companies** across
 
 ## Preview
 
-<!-- Add a screenshot of the dashboard here, e.g.:
-![Dashboard](assets/dashboard.png)
--->
+# 📊 Tech Sector Analysis Dashboard
 
-*(Export the dashboard as an image from Tableau → `Worksheet > Export > Image`, save it to `assets/`, and link it above.)*
+## Dashboard Preview
+
+<img src="images/C:\Users\shenb\OneDrive\Pictures\Screenshots\Tech Sector  analyze.png" width="900">
+<img src="images/C:\Users\shenb\OneDrive\Pictures\Screenshots\Tech Sector analyze.png" width="900">
+
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/"C:\Users\shenb\Downloads\Tech Sector  analyze video.mp4"
+
+
 
 ---
 
