@@ -6,10 +6,19 @@ An interactive Tableau dashboard that profiles **64 global IT companies** across
 
 ---
 ## Links
+## 🔗 Connect With Me
+
 <p align="left">
+
 <a href="https://www.linkedin.com/in/shenbagavalli-selvaraj" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
+<a href="https://public.tableau.com/app/profile/shenbagavalli.selvaraj/viz/TechSectorAnalyze/Dashboard1" target="_blank">
+<img src="https://img.shields.io/badge/Tableau-Dashboard-orange?style=for-the-badge&logo=tableau" />
+</a>
+
+</p>
+
 
 ## Preview
 
