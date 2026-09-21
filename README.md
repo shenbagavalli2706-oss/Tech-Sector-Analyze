@@ -5,6 +5,11 @@ An interactive Tableau dashboard that profiles **64 global IT companies** across
 > Built with Tableau Desktop 2024.1 (workbook version 18.1). Packaged as `.twbx`, so the data extract ships with the file — no external connection needed.
 
 ---
+## Links
+<p align="left">
+<a href="https://www.linkedin.com/in/shenbagavalli-selvaraj" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ## Preview
 
